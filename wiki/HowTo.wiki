@@ -10,7 +10,7 @@ Add your content here.
 [http://www.opendiseasemodels.org/ OpenDiseaseModels.org] (ODM) consists of three sites:
 
   # *Homepage*: This contains introductory information and links to all the ODM projects sites. The URL is http://www.opendiseasemodels.org
-  # *Google Code*: The actual project data is kept on Google Code. There is a Google Code site for each project.
-  # *Google Groups*: There are two types of groups:
+  # *Project Sites*: The code, data sets, and documentation for each project are kept on Google Code sites. There is a Google Code site for each project.
+  # *Discussion Groups*: Hosted by Google Groups. There are two types of groups::
     * Project groups -- There is a group for each project where you can discuss that project and upload relevant files. The link for a particular project's discussion group is on that project's Google Code site.
-    * Main ODM group -- For discussion of ideas for new ODM projects
+    * Main ODM group -- For discussion of ideas for new ODM projects. A link to this group is on the homepage.
