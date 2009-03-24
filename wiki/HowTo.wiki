@@ -1,4 +1,4 @@
-#summary Instructions on how to use ODM.org sites
+#summary Instructions on how to use OpenDiseaseModels.org sites
 
 [http://www.opendiseasemodels.org/ OpenDiseaseModels.org] (ODM) consists of three types of pages, and participants are expected to use each type of page for a specific purpose. Here are the three types and information on how to use them:
 
