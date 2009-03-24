@@ -27,4 +27,4 @@
 
 
   ==The Homepage==
-  This site, located at http://www.opendiseasemodels.org. It contains introductory information and links to all project sites and discussion groups.
+  Located at http://www.opendiseasemodels.org, It contains introductory information and links to all project sites and discussion groups.
