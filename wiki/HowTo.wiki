@@ -2,7 +2,7 @@
 
 [http://www.opendiseasemodels.org/ OpenDiseaseModels.org] (ODM) consists of three types of pages, and participants are expected to use each type of page for a specific purpose. Here are the three types and information on how to use them:
 
-  ==# Project sites==
+  # ==Project sites==
   The code, data sets, and documentation for each project are kept on Google Code sites. There is a Google Code site for each project. A project site should be the first place you go after visiting the homepage as you will need to familiarize yourself with a model before doing anything else.
 
   Here's what you can do on the project sites:
@@ -13,7 +13,7 @@
     * Project members can check in new revisions, add new uploads, and make other changes to the site. The project member status will only be granted to the core development team.
 
 
-  ==# Discussion groups==
+  # ==Discussion groups==
   Hosted by Google Groups. There are two types of groups:
     * Project discussion groups: There is a group for each project where you can discuss that project and upload relevant files. You should have visited the project site before visiting and contributing to a project group. Discussion in a project group should be limited to topics relating to that project.
     * ODM discussion group: Contribute any ideas for new ODM projects in this group.
@@ -26,5 +26,5 @@
     # Group owners will be notified by email of your application and should approve your subscription fairly quickly.
 
 
-  ==# The Homepage==
+  # ==The Homepage==
   This site, located at http://www.opendiseasemodels.org. It contains introductory information and links to all project sites and discussion groups.
