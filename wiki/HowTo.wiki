@@ -1,31 +1,30 @@
-#Instructions on how to use ODM.org sites
+#Summary Instructions on how to use ODM.org sites
 
-OpenDiseaseModels.org (ODM) consists of three types of pages, and participants are expected to use each type of page for a specific purpose. Here are the three types and information on how to use them:
+[http://www.opendiseasemodels.org/ OpenDiseaseModels.org] (ODM) consists of three types of pages, and participants are expected to use each type of page for a specific purpose. Here are the three types and information on how to use them:
 
-   ==1. Project sites==
+  ==1. Project sites==
       The code, data sets, and documentation for each project are kept on Google Code sites. There is a Google Code site for each project. A project site should be the first place you go after visiting the homepage as you will need to familiarize yourself with a model before doing anything else.
 
-      Here's what you can do on the project sites:
-          * Anyone can download project files in two ways:
-               1. By clicking on the Download tab and then clicking on the project zips listed there.
-               2. By checking out the most recent revision using the instructions under the Source tab.
-          * Anyone with a Google Account can add issues under the Issue tab by clicking new issue (Go here for more information on how to create a Google Account).
-          * Project members can check in new revisions, add new uploads, and make other changes to the site. The project member status will only be granted to the core development team.
+Here's what you can do on the project sites:
+    * Anyone can download project files in two ways:
+      1. By clicking on the Download tab and then clicking on the project zips listed there.
+      2. By checking out the most recent revision using the instructions under the Source tab.
+    * Anyone with a Google Account can add issues under the Issue tab by clicking new issue (Go here for more information on how to create a Google Account).
+    * Project members can check in new revisions, add new uploads, and make other changes to the site. The project member status will only be granted to the core development team.
 
 
-   ==2. Discussion groups==
+  ==2. Discussion groups==
  Hosted by Google Groups. There are two types of groups:
-          * Project discussion groups: There is a group for each project where you can discuss that project and upload relevant files. You should have visited the project site before visiting and contributing to a project group. Discussion in a project group should be limited to topics relating to that project.
-          * ODM discussion group: Contribute any ideas for new ODM projects in this group.
+    * Project discussion groups: There is a group for each project where you can discuss that project and upload relevant files. You should have visited the project site before visiting and contributing to a project group. Discussion in a project group should be limited to topics relating to that project.
+    * ODM discussion group: Contribute any ideas for new ODM projects in this group.
 
       In order to access the discussion groups, you will need to sign in to your Google Account. If you do not have one, you will need to create a Google Account. Go here for more information on how to create a Google Account.Once you have a Google Account, you can apply for membership to the discussion group:
-         1. Click the link to the Discussion Group on the ODM homepage. You will need to sign in with your Google Account if you are not already signed in.
-         2. Click the Apply for membership link.
-         3. Change the type of emails you would like to receive and your nickname if you like, and write a message about your planned involvement with the project in the text box.
-         4. Click Apply to this group.
-         5.
-         6. Group owners will be notified by email of your application and should approve your subscription fairly quickly.
+    1. Click the link to the Discussion Group on the ODM homepage. You will need to sign in with your Google Account if you are not already signed in.
+    2. Click the Apply for membership link.
+    3. Change the type of emails you would like to receive and your nickname if you like, and write a message about your planned involvement with the project in the text box.
+    4. Click Apply to this group.
+    5. Group owners will be notified by email of your application and should approve your subscription fairly quickly.
 
 
-   ==3. The Homepage==
+  ==3. The Homepage==
  This site, located at http://www.opendiseasemodels.org. It contains introductory information and links to all project sites and discussion groups.
