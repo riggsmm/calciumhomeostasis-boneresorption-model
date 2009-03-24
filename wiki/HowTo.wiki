@@ -8,7 +8,7 @@
   Here's what you can do on the project sites:
     * Anyone can download project files in two ways:
       1. By clicking on the Download tab and then clicking on the project zips listed there.
-      2. By checking out the most recent revision using the instructions under the Source tab.
+    2. By checking out the most recent revision using the instructions under the Source tab.
     * Anyone with a Google Account can add issues under the Issue tab by clicking new issue (Go here for more information on how to create a Google Account).
     * Project members can check in new revisions, add new uploads, and make other changes to the site. The project member status will only be granted to the core development team.
 
