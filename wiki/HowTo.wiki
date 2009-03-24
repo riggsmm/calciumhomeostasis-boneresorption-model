@@ -1,6 +1,6 @@
 #summary Instructions on how to use OpenDiseaseModels.org sites
 
-[http://www.opendiseasemodels.org/ OpenDiseaseModels.org] (ODM) consists of three types of pages, and participants are expected to use each type of page for a specific purpose. Here are the three types and information on how to use them:
+[http://www.opendiseasemodels.org/ OpenDiseaseModels.org] (ODM) consists of three types of sites, and participants are expected to use each type for a specific purpose. Here are the three types and information on how to use them:
 
   ==Project sites==
   The code, data sets, and documentation for each project are kept on Google Code sites. There is a Google Code site for each project. A project site should be the first place you go after visiting the homepage as you will need to familiarize yourself with a model before doing anything else.
