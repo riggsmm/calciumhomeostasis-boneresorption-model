@@ -14,11 +14,11 @@
 
 
   ==2. Discussion groups==
- Hosted by Google Groups. There are two types of groups:
+  Hosted by Google Groups. There are two types of groups:
     * Project discussion groups: There is a group for each project where you can discuss that project and upload relevant files. You should have visited the project site before visiting and contributing to a project group. Discussion in a project group should be limited to topics relating to that project.
     * ODM discussion group: Contribute any ideas for new ODM projects in this group.
 
-      In order to access the discussion groups, you will need to sign in to your Google Account. If you do not have one, you will need to create a Google Account. Go here for more information on how to create a Google Account.Once you have a Google Account, you can apply for membership to the discussion group:
+  In order to access the discussion groups, you will need to sign in to your Google Account. If you do not have one, you will need to create a Google Account. Go here for more information on how to create a Google Account.Once you have a Google Account, you can apply for membership to the discussion group:
     1. Click the link to the Discussion Group on the ODM homepage. You will need to sign in with your Google Account if you are not already signed in.
     2. Click the Apply for membership link.
     3. Change the type of emails you would like to receive and your nickname if you like, and write a message about your planned involvement with the project in the text box.
@@ -27,4 +27,4 @@
 
 
   ==3. The Homepage==
- This site, located at http://www.opendiseasemodels.org. It contains introductory information and links to all project sites and discussion groups.
+  This site, located at http://www.opendiseasemodels.org. It contains introductory information and links to all project sites and discussion groups.
