@@ -17,6 +17,6 @@ Here's what you can do on the project sites:
 ===The Homepage===
 This site, located at http://www.opendiseasemodels.org. It contains introductory information, project forums and links to all project sites.
 
-In order to post to the forums, you will need to sign up for an account on [http://www.opendiseasemodels.org/ OpenDiseaseModels.org]. You can do this by clicking the Create an Account link in the left navbar or clicking Register Now in the discussion section.
+In order to post to the forums, you will need to sign up for an account on [http://www.opendiseasemodels.org/ OpenDiseaseModels.org]. You can do this by clicking the Register link at the top of the Forums page. 
 
 Each project has its own forum where you may discuss ideas and post code. To contribute ideas for new [http://www.opendiseasemodels.org/ OpenDiseaseModels.org] projects, please post to the General Project Discussion forum.
