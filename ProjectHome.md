@@ -1,0 +1,3 @@
+## Welcome to Calcium homeostasis bone resorption at Google Code ##
+
+This Google Code site functions as a repository for the code and data related to this project. For a detailed summary, discussion boards and information on how to support this project, please visit the [Calcium homeostasis bone resorption home page](http://opendiseasemodels.org/index.php?option=com_content&view=article&id=15&Itemid=32) at [OpenDiseaseModels.org](http://www.opendiseasemodels.org/).
